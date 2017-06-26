@@ -1,0 +1,10 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>api.aich.com</groupId>
+  <artifactId>proxy1</artifactId>
+  <packaging>jar</packaging>
+  <version>1.0.0-SNAPSHOT</version>
+  <name>proxy1</name>
+  <url>http://www.myorganization.org</url>
+  <dependencies/>
+</project>

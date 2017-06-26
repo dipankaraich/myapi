@@ -3,4 +3,4 @@
 .settings/
 *.class
 target/
-test/node_modules
+**/node_modules/

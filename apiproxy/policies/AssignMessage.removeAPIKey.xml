@@ -1,4 +1,11 @@
-<AssignMessagePolicy>
-    
+<AssignMessage async="false" continueOnError="false" enabled="true" name="AssignMessage.removeAPIKey">
+    <Remove>
+    	<Headers>
+    		<Header name="apiKey"></Header>
+    	</Headers>
+    	<QueryParams>
+    		<QueryParam name="apiKey"></QueryParam>
+    	</QueryParams>
+    </Remove>
 
-</AssignMessagePolicy>
+</AssignMessage>
